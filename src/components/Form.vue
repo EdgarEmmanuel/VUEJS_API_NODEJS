@@ -43,7 +43,6 @@ img {
 
 .form {
     position: relative;
-    margin-top: -20rem;
     text-align: center;
 }
 
